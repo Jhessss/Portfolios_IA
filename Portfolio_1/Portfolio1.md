@@ -158,7 +158,7 @@ Por fim, uma dica sobre essa temática e implicações possíveis é o filme "Re
 Artigos
 
 Russell, S., & Norvig, P. (2023). Artificial Intelligence. Stanford Encyclopedia of Philosophy.
-Forbes Technology Council. (2022, April 21). The current state of AI: How it's being used and what to expect next. Forbes.
+Forbes Technology Council. (2022, April 21). The current state of AI: How it's being used and what to expect next. Forbes. \n
 
 
 Livros
