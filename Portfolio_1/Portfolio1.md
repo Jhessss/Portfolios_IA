@@ -152,3 +152,16 @@ Conceitos fundamentais, como agentes inteligentes, ambientes e racionalidade, de
 Foi enfatizada a necessidade de regulamentação e investimentos contínuos em pesquisa, visando garantir a utilização responsável e ética da IA, equilibrando seus benefícios com a mitigação dos riscos associados, como o impacto no mercado de trabalho e as preocupações relacionadas à segurança e privacidade.
 
 Por fim, uma dica sobre essa temática e implicações possíveis é o filme "Resistência" como uma representação distópica que adverte sobre os possíveis perigos de uma excessiva dependência das máquinas para a tomada de decisões cruciais. Portanto, é crucial avançar na área da IA com um enfoque cauteloso e ético, aproveitando seus avanços de forma responsável, enquanto asseguramos a segurança e o bem-estar da humanidade.
+
+## Referências
+
+Artigos
+
+Russell, S., & Norvig, P. (2023). Artificial Intelligence. Stanford Encyclopedia of Philosophy.
+Forbes Technology Council. (2022, April 21). The current state of AI: How it's being used and what to expect next. Forbes.
+Livros
+
+Russell, S., & Norvig, P. (2022). Inteligência Artificial: Uma abordagem introdutória. (4ª ed.). Pearson Educação.
+Haugeland, J. (1999). Artificial Intelligence: A modern introduction. MIT Press.
+McCarthy, J., & Winston, P. H. (2022). Inteligência Artificial: Uma visão geral. (3ª ed.). MIT Press.
+
