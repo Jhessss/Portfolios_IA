@@ -159,6 +159,8 @@ Artigos
 
 Russell, S., & Norvig, P. (2023). Artificial Intelligence. Stanford Encyclopedia of Philosophy.
 Forbes Technology Council. (2022, April 21). The current state of AI: How it's being used and what to expect next. Forbes.
+
+
 Livros
 
 Russell, S., & Norvig, P. (2022). Inteligência Artificial: Uma abordagem introdutória. (4ª ed.). Pearson Educação.
