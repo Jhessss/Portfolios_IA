@@ -123,4 +123,6 @@ Em resumo, essas discussões e contribuições ampliam o entendimento e a aplica
 [8] Botelho, Luís. Inteligência Artificial Apontamentos para as aulas. Instituto Superior de Ciências do Trabalho e da Empresa. 2017. Disponível em <http://home.iscte-iul.pt/~luis/aulas/ia/Algoritmos%20de%20procura.pdf><br><br>
 [9] Codificação de problemas de procura em espaços de estados. Disponível em <https://ia.ssdi.di.fct.unl.pt/guiao1.html><br><br>
 [10] Carvalho, Paulo. ALgoritmos em Grafos. Disponível em <https://impa.br/wp-content/uploads/2021/07/PAPMEM_Julho_2021_Paulo-Cezar_Algoritmos-em-grafos.pdf><br><br>
-[11] Pacheco, M. A. C. (Ano).ALGORITMOS GENÉTICOS: PRINCÍPIOS E APLICAÇÕES. Pontifícia Universidade Católica do Rio de Janeiro, Departamento de Engenharia Elétrica. Rua Marques de São Vicente 225, Gávea, CEP 22453-900, Rio de Janeiro, RJ, Brasil. Disponível em <http://www.inf.ufsc.br/~mauro.roisenberg/ine5377/Cursos-ICA/CE-intro_apost.pdf>
+[11] Pacheco, M. A. C. (Ano).ALGORITMOS GENÉTICOS: PRINCÍPIOS E APLICAÇÕES. Pontifícia Universidade Católica do Rio de Janeiro, Departamento de Engenharia Elétrica. Rua Marques de São Vicente 225, Gávea, CEP 22453-900, Rio de Janeiro, RJ, Brasil. Disponível em <http://www.inf.ufsc.br/~mauro.roisenberg/ine5377/Cursos-ICA/CE-intro_apost.pdf><br><br>
+[12] Repositório com códigos requisitados: <https://github.com/Jhessss/Portfolios_IA/tree/main/Portf%C3%B3lio_2>
+
