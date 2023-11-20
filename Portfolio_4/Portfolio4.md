@@ -145,6 +145,53 @@ A manipulação de proposições em situações complexas pode levar a uma explo
 2. Incerteza:
 Lidar com incerteza pode ser desafiador para agentes baseados em lógica proposicional, já que essa abordagem tradicionalmente lida melhor com informações binárias (verdadeiro/falso).
 
+## Projetos e Problemas.
+
+Para exemplificar os conceitos discutidos, encontra-se abaixo um algoritmo simples que demonstra a lógica proposicional e a inferência em um contexto de sistema especialista. 
+
+```python
+class AgenteBaseadoEmLogicaProposicional:
+    def __init__(self):
+        self.base_de_conhecimento = {}  # Base de conhecimento representada como um dicionário
+
+    def adicionar_conhecimento(self, proposicao, valor):
+        self.base_de_conhecimento[proposicao] = valor
+
+    def inferir(self, regra):
+        # A inferência é realizada verificando se as premissas da regra são verdadeiras na base de conhecimento
+        premissas = regra['premissas']
+        conclusao = regra['conclusao']
+
+        if all(self.base_de_conhecimento[premissa] for premissa in premissas):
+            # Se todas as premissas são verdadeiras, a conclusão é inferida
+            self.base_de_conhecimento[conclusao] = True
+            return True
+        else:
+            return False
+
+# Exemplo de uso do agente
+agente = AgenteBaseadoEmLogicaProposicional()
+
+# Adicionando conhecimento à base
+agente.adicionar_conhecimento('Chuva', True)
+agente.adicionar_conhecimento('Guarda-chuva', False)
+
+# Definindo uma regra
+regra_chuva = {'premissas': ['Chuva'], 'conclusao': 'Guarda-chuva'}
+
+# Realizando inferência com base na regra
+inferencia = agente.inferir(regra_chuva)
+
+# Resultados
+print("Base de Conhecimento:", agente.base_de_conhecimento)
+print("Inferência:", inferencia)
+
+
+
+```
+
+Neste exemplo, o agente tem uma base de conhecimento que inclui a informação de que está chovendo ('Chuva') e se o guarda-chuva está disponível ('Guarda-chuva'). A regra define que, se estiver chovendo e o guarda-chuva não estiver disponível, o agente deve inferir a necessidade de pegar um guarda-chuva. O resultado da inferência e a atualização da base de conhecimento são exibidos no final do código. Este é um modelo simplificado e, em casos reais, sistemas mais complexos seriam necessários para lidar com uma variedade maior de regras e informações.
+
 ## Referências 
 
 [1] Silva, Alexandre Gonçalves. (2014). Aula 2110: Agentes Lógicos. [Apresentação de slides]. Disponível em: <https://www.inf.ufsc.br/~alexandre.goncalves.silva/courses/14s2/ine5633/slides/aula1021.pdf> <br>
