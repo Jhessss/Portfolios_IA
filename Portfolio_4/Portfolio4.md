@@ -69,7 +69,47 @@ Modelo Lógico: A lógica proposicional é usada para criar modelos, onde as sen
 
 ## Discussões
 
-Exemplos práticos de uso da Inferência:
+-  Exemplos práticos de uso de Agentes baseados em conhecimento:
+
+1. Medicina:
+
+Diagnóstico Médico:
+Agentes baseados em conhecimento são utilizados para auxiliar no diagnóstico médico, integrando informações de pacientes, históricos médicos e dados clínicos. Eles podem considerar uma ampla gama de sintomas e dados para sugerir diagnósticos mais precisos.
+
+Prescrição de Medicamentos:
+Esses agentes podem ajudar na escolha de tratamentos e prescrição de medicamentos, considerando interações medicamentosas, alergias e condições específicas do paciente.
+
+Gestão de Dados de Saúde:
+Agentes baseados em conhecimento são empregados na organização e interpretação de grandes conjuntos de dados médicos, facilitando a análise de tendências, identificação de padrões e apoio à pesquisa médica.
+
+2. Finanças:
+
+Gestão de Riscos:
+Agentes baseados em conhecimento são utilizados para avaliar riscos em investimentos, empréstimos e outras transações financeiras. Eles consideram uma variedade de fatores, incluindo condições econômicas, histórico do mercado e eventos externos.
+
+Recomendações de Investimento:
+Esses agentes podem analisar o perfil de investimento de um cliente, metas financeiras e condições de mercado para fornecer recomendações personalizadas sobre alocação de ativos e estratégias de investimento.
+
+Detecção de Fraudes:
+Agentes baseados em conhecimento desempenham um papel crucial na detecção de atividades fraudulentas, analisando padrões incomuns, transações suspeitas e comportamentos atípicos.
+
+3. Automação Industrial:
+
+Controle de Processos:
+Agentes baseados em conhecimento são empregados para otimizar e controlar processos industriais complexos. Eles podem tomar decisões em tempo real com base em dados operacionais e parâmetros específicos.
+
+Manutenção Preditiva:
+Esses agentes podem prever falhas em equipamentos industriais, permitindo a realização de manutenção antes que ocorram problemas graves. Isso ajuda a evitar interrupções não planejadas na produção.
+
+Otimização de Cadeia de Suprimentos:
+Agentes baseados em conhecimento são usados para otimizar a gestão da cadeia de suprimentos, considerando variáveis como demanda do mercado, custos de produção e logística.
+
+Desafios e Considerações
+
+Apesar de suas vantagens, os agentes baseados em conhecimento também enfrentam desafios, como a manutenção da base de conhecimento, a incerteza no ambiente e a necessidade de adaptação contínua. Superar esses desafios é crucial para a eficácia desses sistemas.
+
+-  Exemplos práticos de uso da Inferência:
+  
 1. Sistemas de Recomendação:
 Em sistemas de recomendação, a inferência é usada para prever as preferências de um usuário com base em seu histórico de interações. Isso permite recomendações personalizadas.
 
@@ -86,7 +126,8 @@ A inferência frequentemente lida com informações incompletas ou incertas, o q
 2. Explosão Combinatória:
 Em problemas complexos, o número de possíveis inferências pode crescer exponencialmente, levando à chamada "explosão combinatória".
 
-Exemplos práticos de uso de agentes baseados em lógica proposicional:
+-  Exemplos práticos de uso de agentes baseados em lógica proposicional:
+  
 1. Sistemas Especialistas:
 Em sistemas especialistas, os agentes baseados em lógica proposicional são empregados para representar o conhecimento especializado de um domínio, permitindo a tomada de decisões lógicas em situações complexas.
 
